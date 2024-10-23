@@ -1,0 +1,6 @@
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\bin\Debug\ISBase.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\bin\Debug\ISBase.pdb
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\obj\Debug\ISBase.csproj.AssemblyReference.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\obj\Debug\ISBase.csproj.CoreCompileInputs.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\obj\Debug\ISBase.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\ISBase\ISBase\obj\Debug\ISBase.pdb

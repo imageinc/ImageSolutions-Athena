@@ -1,0 +1,17 @@
+HTML Template
+
+Template: https://spruko.com/demo/ynex/dist/html/index.html
+
+Zip Files: https://drive.google.com/file/d/1aGlcKY9YBHgftFznLKPSfeix2L-hJ0mn/view?usp=drive_link
+
+Project Solution: https://drive.google.com/file/d/1KwjhRu7_IGtv7BBx9Qz4O0aGJRN7Y0o_/view?usp=drive_link
+
+
+We will be using the "Classic View"
+
+Login Page: https://spruko.com/demo/ynex/dist/html/sign-in-basic.html
+Forget Password: https://spruko.com/demo/ynex/dist/html/reset-password-basic.html
+Dashboard: https://spruko.com/demo/ynex/dist/html/index.html
+Grid: https://spruko.com/demo/ynex/dist/html/products-list.html
+Form: https://spruko.com/demo/ynex/dist/html/add-products.html
+
