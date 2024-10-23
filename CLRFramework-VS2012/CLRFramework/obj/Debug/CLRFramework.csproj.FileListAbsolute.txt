@@ -1,0 +1,6 @@
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\bin\Debug\CLRFramework.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\bin\Debug\CLRFramework.pdb
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\obj\Debug\CLRFramework.csproj.AssemblyReference.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\obj\Debug\CLRFramework.csproj.CoreCompileInputs.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\obj\Debug\CLRFramework.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\CLRFramework-VS2012\CLRFramework\obj\Debug\CLRFramework.pdb

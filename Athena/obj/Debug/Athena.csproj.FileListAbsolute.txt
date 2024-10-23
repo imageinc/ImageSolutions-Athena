@@ -1,0 +1,11 @@
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\Athena.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\Athena.pdb
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\CLRFramework.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\ISBase.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\CLRFramework.pdb
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\bin\Debug\ISBase.pdb
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\obj\Debug\Athena.csproj.AssemblyReference.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\obj\Debug\Athena.csproj.CoreCompileInputs.cache
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\obj\Debug\Athena.csproj.Up2Date
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\obj\Debug\Athena.dll
+C:\Users\livin\OneDrive\GitHub\ImageSolutions\ImageSolutions\Athena\obj\Debug\Athena.pdb

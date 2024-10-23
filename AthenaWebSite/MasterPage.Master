@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="AthenaWebSite.MasterPage" %>
+
+<%@ Register Src="~/Controls/Header.ascx" TagPrefix="uc1" TagName="Header" %>
+<%@ Register Src="~/Controls/Footer.ascx" TagPrefix="uc1" TagName="Footer" %>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <uc1:Header runat="server" id="Header" />
+            <asp:ContentPlaceHolder ID="cphBody" runat="server"></asp:ContentPlaceHolder>
+            <uc1:Footer runat="server" id="Footer" />
+        </div>
+    </form>
+</body>
+</html>
